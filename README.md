@@ -1,10 +1,11 @@
-## SIMULATE AND SYNTHESIS INVERTER USING CADENCE
-## AIM:
+### SIMULATE AND SYNTHESIS INVERTER USING CADENCE
+### AIM:
 To Simulate and Synthesis Inverter using CADENCE
 
-## APPARATUS REQUIRED: CADENCE VIRTUOSO
+### APPARATUS REQUIRED: 
+CADENCE VIRTUOSO
 
-## PROCEDURE:
+### PROCEDURE:
 STEP:1 Cadence Virtuoso open procedere<br>
 STEP:2 Open MobaXterm<br>
 STEP:3 Click on Session (Top left Cornet)<br>
@@ -31,37 +32,37 @@ STEP:17 File cell veew choose library Type coll name<br>
 STEP:18 Schematic windere will be opened<br>
 
 
-## INVERTER:
+### INVERTER:
 ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/bd726ca3-2bf7-468e-ae20-47d072566a79)
 
 
 
 
-## OUTPUT:
+### OUTPUT:
 ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/bf3f03a2-3785-456a-9a24-0034caf93e6c)
 
 
 
 
-## NAND:
+### NAND:
 ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/02c3d875-9a67-4fa4-82da-e939e90b3dab)
 
 
 
-## OUTPUT:
+### OUTPUT:
 ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/245970a6-3655-4c35-a723-9b7a9ddd5f4f)
 
 
 
 
-## NOR:
+### NOR:
 ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/fc4b16ac-b6ea-49c9-b663-7d235195d075)
 
 
 
-## OUTPUT:
+### OUTPUT:
 ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/34a21b42-d854-4257-a573-edbcea26e998)
 
 
-## RESULT:
+### RESULT:
 	The Simulate and Synthesis Inverter using CADENCE is successfully verified.
