@@ -103,7 +103,7 @@ f.	Select the enable button and click apply and then click ok.
 
 **CMOS INVERTER SCHEMATIC:**
 
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/d0f02630-9717-48b0-9304-7d17065b68e8)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/c73311cf-5879-4bfd-a768-b27c109dc430)
 
 **SPECIFICATIONS**
 
@@ -123,48 +123,48 @@ Setup for D.C analysis
 
 **CMOS INVERTER TEST CELL VIEW:**
 
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/c0051703-49e7-4500-a3eb-c4c97dd06556)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/6999e98e-31bd-41ab-9250-5579ce2fd052)
 
 **CMOS INVERTER SIMULATION WITH SPECTRA:**
 
 **TRANSIENT RESPONSE:**
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/f225fe71-8103-4302-9a0f-18fd9025adcd)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/a00f68fd-b86b-4983-8f67-392c656ee5b7)
 
 **DC RESPONSE:**
 
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/8344e704-c6c7-4b31-960a-a7ddb540a24a)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/055187fb-5721-4995-8595-d171065a582a)
 
 
 **CMOS NAND GATE:**
 
 **NAND SCHEMATIC:**
 
- ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/01f8be1e-3fc8-4c50-b831-847484cae7c5)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/00211ec5-75b0-4f9c-9147-cf1f02c8222e)
 
 
 **NAND TEST CELL VIEW:**
 
- ![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/5ab06930-975d-4a8a-94b1-72754300f72d)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/15de43b2-4365-4dea-943c-0298ce2cd6d1)
 
 
 **NAND SIMULATION WITH SPECTRA:**
  
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/9a392d71-2442-4cea-a3ca-e70d5d68f685)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/be9fb09d-8bac-4108-af0d-244a68798f9b)
 
 **CMOS NOR GATE:**
 
 **NOR SCHEMATIC:**
 
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/13aa23eb-47f4-4879-acc6-d8b8e0240cfc)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/22c0b77c-96f0-4802-99f8-276f85c81ce3)
 
 
 **NOR TEST CELL VIEW:**
 
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/8989c1dc-d30a-49d9-b92f-26249f0a7451)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/55db81fa-9cc3-46d0-954a-754c98ac8864)
 
 **NOR SIMULATION WITH SPECTRA:**
 
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-6/assets/160568515/bdf535bd-2c8e-41e8-8cdb-7f2fe17e22dc)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-6/assets/167978093/c55bd0be-b165-436a-ae7a-48b40a2d948a)
 
 
 **RESULT:**
